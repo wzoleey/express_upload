@@ -1,0 +1,52 @@
+@use 'reset';
+@use 'variables' as *;
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  h1 {
+    margin-bottom: 40px;
+  }
+
+  input {
+    width: 400px;
+    border: 1px solid $placeholderColor;
+    border-radius: 3px;
+    margin: 10px 0;
+    padding: 15px;
+
+    &::placeholder {
+      color: $placeholderColor;
+    }
+  }
+
+  .num {
+    display: flex;
+    justify-content: space-between;
+    #zipCode,
+    #streetN {
+      width: 46%;
+    }
+  }
+
+  #image {
+    border: none;
+  }
+
+  input[type="button"] {
+    color: $buttonC;
+    background-color: $buttonBC;
+  }
+}

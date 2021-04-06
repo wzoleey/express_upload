@@ -1,0 +1,52 @@
+[
+  {
+    "username": "BálaBála",
+    "email": "zoltan.kadar1@gmail.com",
+    "city": "Albalabab",
+    "address": "ff434rfe",
+    "zipCode": "2132",
+    "streetN": "44",
+    "other": "fdfddfd",
+    "image": "IMG_1371.JPG"
+  },
+  {
+    "username": "Aladár",
+    "email": "zoltan.kadar1@gmail.com",
+    "city": "Bokros",
+    "address": "Király ",
+    "zipCode": "2132",
+    "streetN": "21",
+    "other": "Proba ...",
+    "image": "IMG_1379.JPG"
+  },
+  {
+    "username": "BálaBála",
+    "email": "zoltan.kadar1@gmail.com",
+    "city": "Fiji",
+    "address": "ff",
+    "zipCode": "2132",
+    "streetN": "2",
+    "other": "dee",
+    "image": "IMG_1366.JPG"
+  },
+  {
+    "username": "Tünde",
+    "email": "tundee@gmail.com",
+    "city": "Kecskemét",
+    "address": "ffs",
+    "zipCode": "2132",
+    "streetN": "1",
+    "other": "ssdfdd",
+    "image": "IMG_1366.JPG"
+  },
+  {
+    "username": "Kis Tamás",
+    "email": "kistomi@gmail.com",
+    "city": "Kiskunfélegyház",
+    "address": "Tompori ",
+    "zipCode": "2123",
+    "streetN": "22",
+    "other": "asasa",
+    "image": "IMG_1370.JPG"
+  }
+]

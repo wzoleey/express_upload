@@ -1,0 +1,60 @@
+*,
+body,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button,
+input {
+  border: none;
+  outline: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.form h1 {
+  margin-bottom: 40px;
+}
+.form input {
+  width: 400px;
+  border: 1px solid gray;
+  border-radius: 3px;
+  margin: 10px 0;
+  padding: 15px;
+}
+.form input::placeholder {
+  color: gray;
+}
+.form .num {
+  display: flex;
+  justify-content: space-between;
+}
+.form .num #zipCode,
+.form .num #streetN {
+  width: 46%;
+}
+.form #image {
+  border: none;
+}
+.form input[type=button] {
+  color: white;
+  background-color: green;
+}
+
+/*# sourceMappingURL=fileUpload.css.map */
