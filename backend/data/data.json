@@ -8,5 +8,15 @@
     "streetN": "12",
     "other": "assdasasd",
     "image": "code.png"
+  },
+  {
+    "username": "Jeney",
+    "email": "Attila",
+    "city": "Budapest",
+    "address": "Szép",
+    "zipCode": "1007",
+    "streetN": "5",
+    "other": "Other information",
+    "image": "code.png"
   }
 ]
