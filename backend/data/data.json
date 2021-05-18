@@ -18,5 +18,15 @@
     "streetN": "5",
     "other": "Other information",
     "image": "code.png"
+  },
+  {
+    "username": "Juhász András",
+    "email": "juhandr@gmail.com",
+    "city": "Szeged",
+    "address": "Új",
+    "zipCode": "6651",
+    "streetN": "33",
+    "other": "Info info info",
+    "image": "code.png"
   }
 ]
